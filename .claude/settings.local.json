@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/david/.agents/skills/vue/**)",
+      "Read(//Users/david/.agents/skills/vue-best-practices/**)",
+      "Read(//Users/david/.agents/skills/nuxt/**)",
+      "Bash(python3 /Users/david/.claude/skills/hai-hai/scripts/get_usage.py)",
+      "Bash(python3 /Users/david/.claude/skills/hai-hai/scripts/get_usage.py --all-sessions)",
+      "Bash(python3 *)"
+    ]
+  }
+}
